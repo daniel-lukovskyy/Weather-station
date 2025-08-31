@@ -4,8 +4,8 @@
 const char* WIFI_SSID = "YOUR WiFi";
 const char* WIFI_PASS = "YOUR PASSWORD";
 
-String apiKey = "edf3b18260e9014b8f68c8509f63d36d";
-String city = "Jerusalem";
+String apiKey = "YOUR API";
+String city = "YOUR CITY";
 String url = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=" + apiKey + "&units=metric";
 
 void setup() {
