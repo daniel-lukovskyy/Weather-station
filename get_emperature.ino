@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* WIFI_SSID = "iPhone";
-const char* WIFI_PASS = "12345678";
+const char* WIFI_SSID = "YOUR WiFi";
+const char* WIFI_PASS = "YOUR PASSWORD";
 
 String apiKey = "edf3b18260e9014b8f68c8509f63d36d";
 String city = "Jerusalem";
