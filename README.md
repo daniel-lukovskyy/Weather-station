@@ -1,6 +1,7 @@
 # Weather-station
 Portable weather station based on ESP32 microcontroller.
 The station uses data from "https://openweathermap.org/" , using JSON.
+
 Notice: You have to log in and get your API before use.
 
 Additionally station works with DHT11 sensor wich measures temperature and humidity in real time. 
