@@ -9,6 +9,6 @@ Notice : If you use only sensor and not the whole module, you have to add 10kOmh
 
 Usage of capacitor of 0.1 microFarad ensures you that data from sensor won't lost and the signal won't be interrupted.
 
-#What does this do ?
+What does this do ?
 The weather station shows ont OLED ddisplay the temperature and humidity at sensors location. By pressing the button you can switch between data from the sensor and data from the weather web site. You can choose any city that you want.
 By making some small changes in the code you can adjust the weather data that you will see. (see discription of the code).
